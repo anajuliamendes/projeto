@@ -1,0 +1,36 @@
+<!DOCTYPE <html>
+
+<html>
+
+<head>
+    <title> Atividade </title>
+    <meta charset="utf8" />
+</head>
+
+
+<body>
+    <h1>Apresentação Pessoal</h1>
+    <p>Meu nome é Ana Julia Mendes</p>
+    <br>
+    <p>Eu nasci em São Paulo, na cidade de Santos</p>
+    <br>
+    <p>No meu tempo livre eu gosto de ler e assistir filmes</p>
+    <br>
+    <p>Um dos meus hobbies é ouvir música</p>
+    <br>
+    <p>Meu esporte favorito é vôlei</p>
+    <br>
+    <p>Meu filme favorito é As Vantagens de Ser Invisível e minha série favorita é The Good Place</p>
+    <br>
+    <p>Meus artistas favoritos são o Steve Gabry e o Jack Stauber</p>
+    <br>
+    <p>Minhas cores favoritas são vermelho e azul</p>
+    <br>
+    <p>Eu não gosto de futebol, mas torço para o Grêmio no meme</p>
+    <br>
+    <p>Eu escolhi esse curso para aprender mais sobre computadores e internet, já que não sou boa com isso</p>
+    <br>
+    <p>Eu gsosto muito de homem-aranha!</p>
+</body>
+
+</html>

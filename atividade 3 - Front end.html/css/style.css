@@ -1,0 +1,20 @@
+:root {
+  --sereno-esmeralda-50: #F6F9F5;
+  --sereno-esmeralda-250: #C4DEBF;
+  --sereno-esmeralda-500: #549447;
+  --sereno-esmeralda-700: #406539;
+  --sereno-esmeralda-950: #161F14;
+}
+
+body {
+margin: 0
+font-family: Arial, sans-serif;
+background-color: var(--sereno-esmeralda-250);
+color: var(--sereno-esmeralda-950);
+line-height: 1.6;
+}
+
+#cabeçalho {
+padding: 30px;
+background-color: var(--sereno-esmeralda-700);
+}

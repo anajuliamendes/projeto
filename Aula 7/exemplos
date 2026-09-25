@@ -1,0 +1,12 @@
+// opeador lógico E ( and &&)
+// todas as condições precisam ser verdadeiras
+let nota = 6
+let aprovador = nota >= 6 && nota <= 10
+console.log(aprovado)
+
+// operador lógico OU (or ||)
+// no mínimo uma condição precisa ter resultado verdadeiro
+let idade = 16
+let acompanhado = true
+let resultado = idade > 18 || acompanhado == true
+console.log(resultado)
